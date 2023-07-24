@@ -3280,7 +3280,9 @@
     <property name="LightSource" value="lightSource" />
     <property name="ActivateObject" value="lightSource" />
     <property name="LightValue" value=".55" />
-    <property name="Stacknumber" value="1" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <property name="Group" value="Tools/Traps" />
     <property name="SoundUnholster" value="weapon_unholster" />
     <property name="SoundHolster" value="weapon_holster" />
@@ -7327,7 +7329,9 @@
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Mbrass" />
     <property name="MeltTimePerUnit" value=".4" />
-    <property name="Stacknumber" value="300" />
+    <property name="Stacknumber" value="1000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK ammo high -->
     <property name="EconomicValue" value="9" />
     <property name="TraderStageTemplate" value="ammoTier1" />
@@ -7470,7 +7474,9 @@
   <item name="ammo762mmBulletBall">
     <property name="Extends" value="ammo9mmBulletBall" />
     <property name="Tags" value="ammo762mm" />
-    <property name="Stacknumber" value="150" />
+    <property name="Stacknumber" value="1000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK ammo low -->
     <property name="EconomicValue" value="11" />
     <property name="TraderStageTemplate" value="ammoTier1" />
@@ -7548,7 +7554,9 @@
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Mlead_scrap" />
-    <property name="Stacknumber" value="150" />
+    <property name="Stacknumber" value="1000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK ammo low -->
     <property name="EconomicValue" value="11" />
     <property name="TraderStageTemplate" value="ammoTier1" />
@@ -7577,7 +7585,9 @@
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceScrapPolymers" />
-    <property name="Stacknumber" value="150" />
+    <property name="Stacknumber" value="1000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK ammo low -->
     <property name="EconomicValue" value="20" />
     <property name="TraderStageTemplate" value="ammoTier2" />
@@ -7625,7 +7635,9 @@
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceScrapPolymers" />
-    <property name="Stacknumber" value="150" />
+    <property name="Stacknumber" value="1000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK ammo low -->
     <property name="EconomicValue" value="20" />
     <property name="TraderStageTemplate" value="ammoTier3" />
@@ -7738,7 +7750,9 @@
     <property name="HandMeshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Mlead_scrap" />
-    <property name="Stacknumber" value="20" />
+    <property name="Stacknumber" value="100">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <property name="EconomicValue" value="250" />
     <property name="TraderStageTemplate" value="ammoTier2" />
     <property name="Group" value="Ammo/Weapons,Ammo,Ranged Weapons" />
@@ -7799,7 +7813,9 @@
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MFuelBarrelMetal" />
-    <property name="Stacknumber" value="10000" />
+    <property name="Stacknumber" value="30000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="FuelValue" value="2" />
     <property name="EconomicValue" value="10" />
@@ -7823,7 +7839,9 @@
     <property name="StickyColliderRadius" value=".05" />
     <property name="StickyColliderLength" value="1" />
     <property name="Material" value="Mwood" />
-    <property name="Stacknumber" value="150" />
+    <property name="Stacknumber" value="300">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK ammo low -->
     <property name="EconomicValue" value="12" />
     <property name="TraderStageTemplate" value="arrowsTier0" />
@@ -7996,7 +8014,9 @@
     <property name="HandMeshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="IsSticky" value="false" />
-    <property name="Stacknumber" value="75" />
+    <property name="Stacknumber" value="300">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <property name="EconomicValue" value="65" />
     <property name="TraderStageTemplate" value="arrowsTier4" />
     <property name="EconomicBundleSize" value="1" />
@@ -8059,7 +8079,9 @@
     <property name="StickyColliderUp" value="2" />
     <property name="StickyColliderRadius" value=".05" />
     <property name="StickyColliderLength" value=".75" />
-    <property name="Stacknumber" value="150" />
+    <property name="Stacknumber" value="300">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK ammo low -->
     <property name="EconomicValue" value="12" />
     <property name="TraderStageTemplate" value="arrowsTier0" />
@@ -8097,7 +8119,9 @@
     <property name="StickyColliderUp" value="2" />
     <property name="StickyColliderRadius" value=".05" />
     <property name="StickyColliderLength" value=".75" />
-    <property name="Stacknumber" value="150" />
+    <property name="Stacknumber" value="300">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK ammo low -->
     <property name="EconomicValue" value="25" />
     <property name="TraderStageTemplate" value="arrowsTier1" />
@@ -8245,7 +8269,9 @@
     <property name="HandMeshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="IsSticky" value="false" />
-    <property name="Stacknumber" value="75" />
+    <property name="Stacknumber" value="300">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <property name="EconomicValue" value="80" />
     <property name="TraderStageTemplate" value="arrowsTier4" />
     <property name="EconomicBundleSize" value="1" />
@@ -8302,7 +8328,9 @@
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Mmetal" />
-    <property name="Stacknumber" value="5" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK ammobundle -->
     <property name="Weight" value="0" />
     <property name="EconomicValue" value="900" />
@@ -8320,7 +8348,9 @@
   <item name="ammoBundle9mmBulletBall">
     <property name="Extends" value="ammoBundleMaster" />
     <property name="CustomIcon" value="ammo9mmBulletBall" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK ammobundle high -->
     <property name="EconomicValue" value="900" />
     <property name="TraderStageTemplate" value="ammoTier1" />
@@ -8331,7 +8361,9 @@
   <item name="ammoBundle9mmBulletHP">
     <property name="Extends" value="ammoBundleMaster" />
     <property name="CustomIcon" value="ammo9mmBulletHP" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK ammobundle high -->
     <property name="EconomicValue" value="1400" />
     <property name="TraderStageTemplate" value="ammoTier2" />
@@ -8342,7 +8374,9 @@
   <item name="ammoBundle9mmBulletAP">
     <property name="Extends" value="ammoBundleMaster" />
     <property name="CustomIcon" value="ammo9mmBulletAP" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK ammobundle high -->
     <property name="EconomicValue" value="1400" />
     <property name="TraderStageTemplate" value="ammoTier3" />
@@ -8353,7 +8387,9 @@
   <item name="ammoBundle44MagnumBulletBall">
     <property name="Extends" value="ammoBundleMaster" />
     <property name="CustomIcon" value="ammo44MagnumBulletBall" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK ammobundle high -->
     <property name="EconomicValue" value="1000" />
     <property name="TraderStageTemplate" value="ammoTier1" />
@@ -8365,7 +8401,9 @@
   </item>
   <item name="ammoBundle44MagnumBulletHP">
     <property name="Extends" value="ammoBundle44MagnumBulletBall" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK ammobundle high -->
     <property name="CustomIcon" value="ammo44MagnumBulletHP" />
     <property name="EconomicValue" value="1500" />
@@ -8377,7 +8415,9 @@
   <item name="ammoBundle44MagnumBulletAP">
     <property name="Extends" value="ammoBundle44MagnumBulletBall" />
     <property name="CustomIcon" value="ammo44MagnumBulletAP" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK ammobundle high -->
     <property name="EconomicValue" value="1500" />
     <property name="TraderStageTemplate" value="ammoTier3" />
@@ -8672,7 +8712,9 @@
     <property name="Meshfile" value="@:Other/Items/Weapons/Ranged/PipeBomb/PipeBombPrefab.prefab" />
     <property name="DropScale" value="2.5" />
     <property name="Material" value="Mmetal" />
-    <property name="Stacknumber" value="20" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <property name="EconomicValue" value="41" />
     <property name="TraderStageTemplate" value="baseTier1" />
     <property name="Weight" value="0" />
@@ -8767,7 +8809,9 @@
     <property name="Meshfile" value="@:Other/Items/Weapons/Ranged/Grenade/GrenadePrefab.prefab" />
     <property name="DropScale" value="2.5" />
     <property name="Material" value="Mmetal" />
-    <property name="Stacknumber" value="25" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <property name="EconomicValue" value="41" />
     <property name="TraderStageTemplate" value="baseTier2" />
     <property name="Weight" value="0" />
@@ -8959,7 +9003,9 @@ add knockdown resist to armor
     <property name="ActivationTransformToHide" value="Armed" />
     <property name="DropScale" value="1.8" />
     <property name="Material" value="Mmetal" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <property name="EconomicValue" value="41" />
     <property name="TraderStageTemplate" value="baseTier2" />
     <property name="Weight" value="0" />
@@ -9059,7 +9105,9 @@ add knockdown resist to armor
     <property name="Meshfile" value="@:Other/Items/Weapons/Ranged/Dynamite/dynamitePrefab.prefab" />
     <property name="DropScale" value="2.5" />
     <property name="Material" value="MDynamite" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <property name="EconomicValue" value="100" />
     <property name="TraderStageTemplate" value="baseTier2" />
     <property name="Weight" value="0" />
@@ -9154,7 +9202,9 @@ add knockdown resist to armor
     <property name="Material" value="Morganic" />
     <property name="ThrowableDecoy" value="true" />
     <property name="Weight" value="0" />
-    <property name="Stacknumber" value="20" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <property name="LightValue" value=".3" />
     <property name="LightSource" value="lightSource" />
     <property name="ActivateObject" value="lightSource" />
@@ -9237,7 +9287,9 @@ add knockdown resist to armor
     <property name="Meshfile" value="@:Other/Items/Weapons/Ranged/PipeBomb/PipeBombPrefab.prefab" />
     <property name="DropScale" value="2.5" />
     <property name="Material" value="Mmetal" />
-    <property name="Stacknumber" value="40" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK explosives -->
     <property name="EconomicValue" value="5" />
     <!-- <property name="TraderStageTemplate" value="baseTier1"/> -->
@@ -12285,7 +12337,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Morganic" />
     <property name="EconomicValue" value="10" />
-    <property name="Stacknumber" value="15" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK medical -->
     <property name="Group" value="Science,CFChemicals,Medical,TCMedical" />
     <property class="Action0">
@@ -12346,7 +12400,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Health/bandage.FBX" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Mcloth" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="20">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK medical -->
     <property name="Weight" value="5" />
     <property name="EconomicValue" value="5" />
@@ -12413,7 +12469,9 @@ perkNightStalkerSilentNight
     <property name="Group" value="Science,Medical,TCMedical" />
     <property name="EconomicValue" value="15" />
     <property name="DescriptionKey" value="medicalFirstAidBandageDesc" />
-    <property name="Stacknumber" value="5" />
+    <property name="Stacknumber" value="20">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <property name="UnlockedBy" value="craftingMedical" />
     <!-- perkPhysician,medicalFirstAidBandageSchematic, -->
     <effect_group tiered="false">
@@ -12499,7 +12557,9 @@ perkNightStalkerSilentNight
     <property name="DisplayType" value="medicalFirstAidKit" />
     <property name="Group" value="Science,Medical,TCMedical" />
     <property name="EconomicValue" value="200" />
-    <property name="Stacknumber" value="5" />
+    <property name="Stacknumber" value="20">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <property name="UnlockedBy" value="craftingMedical" />
     <!-- perkPhysician,medicalFirstAidKitSchematic, -->
     <property class="Action0">
@@ -12595,7 +12655,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Health/bandage.FBX" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Mwood" />
-    <property name="Stacknumber" value="5" />
+    <property name="Stacknumber" value="20">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK loot -->
     <property name="EconomicValue" value="10" />
     <property name="Group" value="Science,Medical,TCMedical" />
@@ -12800,7 +12862,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Morganic" />
-    <property name="Stacknumber" value="15" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <property name="EconomicValue" value="5" />
     <property name="EconomicBundleSize" value="1" />
     <property name="SellableToTrader" value="false" />
@@ -12814,7 +12878,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Morganic" />
     <property name="EconomicValue" value="80" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK loot -->
     <property name="Group" value="Science,CFChemicals,Medical,TCMedical" />
     <property class="Action0">
@@ -12842,7 +12908,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Morganic" />
     <property name="EconomicValue" value="80" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK loot -->
     <property name="Group" value="Science,CFChemicals,Medical,TCMedical" />
     <property class="Action0">
@@ -12873,7 +12941,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Morganic" />
     <property name="EconomicValue" value="120" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK loot -->
     <property name="UnlockedBy" value="craftingMedical" />
     <!-- drugHerbalAntibioticsSchematic, -->
@@ -12898,7 +12968,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Morganic" />
     <property name="EconomicValue" value="240" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK loot -->
     <property name="UnlockedBy" value="craftingMedical" />
     <!-- perkPhysician,drugAntibioticsSchematic, -->
@@ -12942,7 +13014,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Morganic" />
     <property name="EconomicValue" value="250" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK loot -->
     <property name="UnlockedBy" value="craftingMedical" />
     <!-- perkPhysician, -->
@@ -12986,7 +13060,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Morganic" />
     <property name="EconomicValue" value="100" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK loot -->
     <property name="Group" value="Science,Medical" />
     <property class="Action0">
@@ -13169,7 +13245,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Morganic" />
     <property name="EconomicValue" value="80" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="20">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK food -->
     <property name="Group" value="Science,CFChemicals,Medical,TCMedical" />
     <property class="Action0">
@@ -13196,7 +13274,9 @@ perkNightStalkerSilentNight
     <property name="Material" value="Mmetal" />
     <!-- <property name="Weight" value="5"/> -->
     <property name="EconomicValue" value="60" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK food -->
     <property class="Action0">
       <property name="Class" value="Eat" />
@@ -13374,7 +13454,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Morganic" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK food -->
     <property name="EconomicValue" value="16" />
     <property name="UnlockedBy" value="craftingFood" />
@@ -13400,7 +13482,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Morganic" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK food -->
     <property name="EconomicValue" value="5" />
     <property name="EconomicBundleSize" value="1" />
@@ -13983,7 +14067,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MfoodRawMeat" />
-    <property name="Stacknumber" value="125" />
+    <property name="Stacknumber" value="500">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK food -->
     <!-- <property name="EconomicBundleSize" value="5"/> -->
     <property name="EconomicValue" value="20" />
@@ -14016,7 +14102,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MfoodRawMeat" />
-    <property name="Stacknumber" value="125" />
+    <property name="Stacknumber" value="1000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK food -->
     <property name="EconomicValue" value="5" />
     <property name="EconomicBundleSize" value="1" />
@@ -14097,7 +14185,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceCrop" />
-    <property name="Stacknumber" value="125" />
+    <property name="Stacknumber" value="250">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="EconomicValue" value="10" />
     <!-- <property name="EconomicBundleSize" value="5"/> -->
@@ -14120,7 +14210,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceCrop" />
-    <property name="Stacknumber" value="125" />
+    <property name="Stacknumber" value="250">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="EconomicValue" value="10" />
     <!-- <property name="EconomicBundleSize" value="5"/> -->
@@ -14146,7 +14238,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceCrop" />
-    <property name="Stacknumber" value="125" />
+    <property name="Stacknumber" value="250">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="EconomicValue" value="200" />
     <!-- <property name="EconomicBundleSize" value="5"/> -->
@@ -14170,7 +14264,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceCrop" />
-    <property name="Stacknumber" value="125" />
+    <property name="Stacknumber" value="250">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="EconomicValue" value="10" />
     <!-- <property name="EconomicBundleSize" value="5"/> -->
@@ -14194,7 +14290,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceCrop" />
-    <property name="Stacknumber" value="125" />
+    <property name="Stacknumber" value="250">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="EconomicValue" value="10" />
     <!-- <property name="EconomicBundleSize" value="5"/> -->
@@ -14218,7 +14316,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceCrop" />
-    <property name="Stacknumber" value="125" />
+    <property name="Stacknumber" value="250">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK food -->
     <property name="EconomicValue" value="10" />
     <property name="EconomicBundleSize" value="1" />
@@ -14244,7 +14344,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceCrop" />
-    <property name="Stacknumber" value="125" />
+    <property name="Stacknumber" value="250">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK food -->
     <property name="EconomicValue" value="10" />
     <property name="EconomicBundleSize" value="1" />
@@ -14304,7 +14406,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Food/bottled_waterPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Mglass" />
-    <property name="Stacknumber" value="125" />
+    <property name="Stacknumber" value="250">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <!-- <property name="Weight" value="10"/> -->
     <property name="EconomicValue" value="20" />
@@ -14350,7 +14454,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Food/bottled_waterPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Mglass" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="100">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK drink -->
     <!-- <property name="Weight" value="10"/> -->
     <property name="EconomicValue" value="40" />
@@ -14380,7 +14486,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Food/bottled_waterPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Mglass" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK drink -->
     <!-- <property name="Weight" value="10"/> -->
     <property name="EconomicValue" value="100" />
@@ -14421,7 +14529,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Food/bottled_waterPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Mglass" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK drink -->
     <!-- <property name="Weight" value="10"/> -->
     <property name="EconomicValue" value="68" />
@@ -14452,7 +14562,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Mglass" />
     <!-- <property name="Weight" value="10"/> -->
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK drink -->
     <property name="EconomicValue" value="48" />
     <property name="UnlockedBy" value="craftingFood" />
@@ -14486,7 +14598,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Mglass" />
     <!-- <property name="Weight" value="10"/> -->
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK drink -->
     <property name="EconomicValue" value="48" />
     <property name="UnlockedBy" value="craftingFood" />
@@ -14522,7 +14636,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Food/bottled_waterPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Mglass" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK drink -->
     <!-- <property name="Weight" value="10"/> -->
     <property name="EconomicValue" value="156" />
@@ -14584,7 +14700,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Mglass" />
     <!-- <property name="Weight" value="10"/> -->
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK drink -->
     <property name="EconomicValue" value="96" />
     <property name="UnlockedBy" value="craftingFood" />
@@ -14642,7 +14760,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Mglass" />
     <!-- <property name="Weight" value="10"/> -->
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK drink -->
     <property name="EconomicValue" value="100" />
     <property name="UnlockedBy" value="craftingFood" />
@@ -14679,7 +14799,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Mglass" />
     <!-- <property name="Weight" value="10"/> -->
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="EconomicValue" value="500" />
     <property name="UnlockedBy" value="craftingFood" />
@@ -14718,7 +14840,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Mglass" />
     <!-- <property name="Weight" value="10"/> -->
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="EconomicValue" value="500" />
     <property name="UnlockedBy" value="craftingFood" />
@@ -14753,7 +14877,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Mglass" />
     <!-- <property name="Weight" value="10"/> -->
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="EconomicValue" value="250" />
     <property name="UnlockedBy" value="craftingFood" />
@@ -14788,7 +14914,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Mglass" />
     <!-- <property name="Weight" value="10"/> -->
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="EconomicValue" value="2000" />
     <property name="SellableToTrader" value="true" />
@@ -14815,7 +14943,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Crafting/Metal/IronBucket.fbx" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Mmetal" />
-    <property name="Stacknumber" value="1" />
+    <property name="Stacknumber" value="10">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <property name="EconomicValue" value="84" />
     <property name="Class" value="ItemClassWaterContainer" />
     <property name="WaterCapacity" value="1" />
@@ -14838,7 +14968,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Crafting/Metal/IronBucketWaterPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Mmetal" />
-    <property name="Stacknumber" value="1" />
+    <property name="Stacknumber" value="10">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <property name="EconomicValue" value="88" />
     <property name="Class" value="ItemClassWaterContainer" />
     <property name="WaterCapacity" value="1" />
@@ -14856,7 +14988,12 @@ perkNightStalkerSilentNight
   <item name="schematicMaster">
     <property name="DescriptionKey" value="schematicGeneralGroupDesc" />
     <property name="ItemTypeIcon" value="book" />
-    <property name="AltItemTypeIcon" value="book_read" />
+    <property name="AltItemTypeIcon" value="check">
+      <!--Attribute "value" replaced by: "Jakmeister999_Enhanced_HUD_A21"-->
+    </property>
+    <property name="AltItemTypeIconColor" value="0,256,0">
+      <!--Element inserted by: "Jakmeister999_Enhanced_HUD_A21"-->
+    </property>
     <property name="CustomIcon" value="schematicMaster" />
     <property name="CreativeMode" value="None" />
     <property name="HoldType" value="31" />
@@ -14864,7 +15001,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Mpaper" />
     <property name="Weight" value="5" />
-    <property name="Stacknumber" value="5" />
+    <property name="Stacknumber" value="10">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK book -->
     <property name="EconomicValue" value="800" />
     <property name="Group" value="Books,SchematicsOnly,TCReading" />
@@ -15856,7 +15995,9 @@ perkNightStalkerSilentNight
     <property name="Material" value="MresourceYuccaFibers" />
     <property name="RepairTime" value="1" />
     <property name="RepairAmount" value="30" />
-    <property name="Stacknumber" value="6000" />
+    <property name="Stacknumber" value="10000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="FuelValue" value="1" />
     <property name="EconomicValue" value="5" />
@@ -15872,7 +16013,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceWood" />
     <property name="Weight" value="5" />
-    <property name="Stacknumber" value="6000" />
+    <property name="Stacknumber" value="10000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="FuelValue" value="50" />
     <property name="EconomicValue" value="25" />
@@ -15889,7 +16032,9 @@ perkNightStalkerSilentNight
     <property name="Material" value="MresourceCrushedSand" />
     <property name="Weight" value="4" />
     <property name="NoScrapping" value="true" />
-    <property name="Stacknumber" value="6000" />
+    <property name="Stacknumber" value="10000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="EconomicValue" value="50" />
     <property name="EconomicBundleSize" value="50" />
@@ -15902,7 +16047,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/brokenGlassPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceBrokenGlass" />
-    <property name="Stacknumber" value="6000" />
+    <property name="Stacknumber" value="10000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="Weight" value="4" />
     <property name="EconomicValue" value="5" />
@@ -15928,7 +16075,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceScrapIron" />
     <property name="Weight" value="1" />
-    <property name="Stacknumber" value="6000" />
+    <property name="Stacknumber" value="10000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="EconomicValue" value="10" />
     <property name="EconomicBundleSize" value="10" />
@@ -15943,7 +16092,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceForgedIron" />
-    <property name="Stacknumber" value="500" />
+    <property name="Stacknumber" value="1000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="EconomicValue" value="12" />
     <property name="CraftingIngredientTime" value="10" />
@@ -15968,7 +16119,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceForgedSteel" />
-    <property name="Stacknumber" value="500" />
+    <property name="Stacknumber" value="1000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="EconomicValue" value="50" />
     <property name="Group" value="Resources" />
@@ -15998,7 +16151,9 @@ perkNightStalkerSilentNight
     <property name="Tags" value="junk" />
     <property name="Material" value="Mcloth" />
     <property name="Weight" value="0" />
-    <property name="Stacknumber" value="20" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="EconomicValue" value="16" />
     <property name="Group" value="Resources,Medical" />
@@ -16024,7 +16179,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceOilShale" />
-    <property name="Stacknumber" value="6000" />
+    <property name="Stacknumber" value="10000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="FuelValue" value="5" />
     <property name="EconomicValue" value="10" />
@@ -16040,7 +16197,9 @@ perkNightStalkerSilentNight
 	<property name="Meshfile" value="@:Other/Items/Crafting/femur.fbx"/>-->
     <property name="Material" value="MresourceBone" />
     <property name="Weight" value="1" />
-    <property name="Stacknumber" value="1200" />
+    <property name="Stacknumber" value="5000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="RepairAmount" value="270" />
     <property name="EconomicValue" value="5" />
@@ -16057,7 +16216,9 @@ perkNightStalkerSilentNight
     <property name="Material" value="MresourceLeather" />
     <property name="Weight" value="5" />
     <property name="RepairAmount" value="150" />
-    <property name="Stacknumber" value="250" />
+    <property name="Stacknumber" value="1000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="FuelValue" value="5" />
     <property name="EconomicValue" value="22" />
@@ -16071,7 +16232,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceAnimalFat" />
     <property name="FuelValue" value="20" />
-    <property name="Stacknumber" value="500" />
+    <property name="Stacknumber" value="500">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="EconomicValue" value="20" />
     <property name="CraftingIngredientTime" value="15" />
@@ -16095,7 +16258,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceTestosteroneExtract" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="50">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="EconomicValue" value="500" />
     <property name="EconomicBundleSize" value="1" />
@@ -16188,7 +16353,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceScrapBrassSmall" />
     <property name="MeltTimePerUnit" value=".4" />
-    <property name="Stacknumber" value="6000" />
+    <property name="Stacknumber" value="10000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="Weight" value="1" />
     <property name="EconomicValue" value="20" />
@@ -16203,7 +16370,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceScrapLeadSmall" />
-    <property name="Stacknumber" value="6000" />
+    <property name="Stacknumber" value="10000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="Weight" value="1" />
     <property name="EconomicValue" value="10" />
@@ -16218,7 +16387,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceClayLump" />
     <property name="Weight" value="5" />
-    <property name="Stacknumber" value="6000" />
+    <property name="Stacknumber" value="10000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="EconomicValue" value="6" />
     <property name="EconomicBundleSize" value="150" />
@@ -16267,7 +16438,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Mcloth" />
-    <property name="Stacknumber" value="250" />
+    <property name="Stacknumber" value="1000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="RepairAmount" value="50" />
     <property name="FuelValue" value="1" />
@@ -16286,7 +16459,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourcePaper" />
-    <property name="Stacknumber" value="500" />
+    <property name="Stacknumber" value="1000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="FuelValue" value="1" />
     <property name="Weight" value="1" />
@@ -16304,7 +16479,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MmilitaryFiber" />
-    <property name="Stacknumber" value="250" />
+    <property name="Stacknumber" value="500">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="CraftingIngredientTime" value="10" />
     <property name="RepairTime" value=".6" />
@@ -16336,7 +16513,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceForgedSteel" />
-    <property name="Stacknumber" value="50" />
+    <property name="Stacknumber" value="100">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK loot -->
     <property name="Weight" value="10" />
     <property name="EconomicValue" value="240" />
@@ -16364,7 +16543,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceForgedSteel" />
-    <property name="Stacknumber" value="500" />
+    <property name="Stacknumber" value="1000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="Weight" value="10" />
     <property name="EconomicValue" value="22" />
@@ -16377,7 +16558,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Morganic" />
     <property name="Weight" value="10" />
-    <property name="Stacknumber" value="500" />
+    <property name="Stacknumber" value="1000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="EconomicValue" value="20" />
     <property name="Group" value="Resources,Chemicals,CFChemicals" />
@@ -16390,7 +16573,9 @@ perkNightStalkerSilentNight
     <property name="Material" value="Mcloth" />
     <property name="Weight" value="5" />
     <property name="EconomicValue" value="25" />
-    <property name="Stacknumber" value="500" />
+    <property name="Stacknumber" value="1000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="Group" value="Resources" />
   </item>
@@ -16400,7 +16585,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceFeather" />
-    <property name="Stacknumber" value="250" />
+    <property name="Stacknumber" value="1000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="FuelValue" value="1" />
     <property name="EconomicValue" value="10" />
@@ -16412,7 +16599,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Mmetal" />
-    <property name="Stacknumber" value="500" />
+    <property name="Stacknumber" value="1000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="EconomicValue" value="12" />
     <property name="EconomicBundleSize" value="5" />
@@ -16423,7 +16612,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Mmetal" />
-    <property name="Stacknumber" value="500" />
+    <property name="Stacknumber" value="1000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="EconomicValue" value="40" />
     <property name="EconomicBundleSize" value="5" />
@@ -16434,7 +16625,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceCoal" />
-    <property name="Stacknumber" value="6000" />
+    <property name="Stacknumber" value="10000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="FuelValue" value="100" />
     <property name="EconomicValue" value="10" />
@@ -16447,7 +16640,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceCoal" />
-    <property name="Stacknumber" value="6000" />
+    <property name="Stacknumber" value="10000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="EconomicValue" value="10" />
     <property name="EconomicBundleSize" value="10" />
@@ -16470,7 +16665,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Mlead_scrap" />
-    <property name="Stacknumber" value="1000" />
+    <property name="Stacknumber" value="1000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="EconomicValue" value="10" />
     <property name="EconomicBundleSize" value="10" />
@@ -16566,7 +16763,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Msteel" />
-    <property name="Stacknumber" value="25" />
+    <property name="Stacknumber" value="100">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resourceRepairKit -->
     <property name="EconomicValue" value="186" />
     <property name="RepairTime" value="3" />
@@ -16581,7 +16780,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceOil" />
-    <property name="Stacknumber" value="50" />
+    <property name="Stacknumber" value="100">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="EconomicValue" value="100" />
     <property name="Group" value="Resources,Chemicals,CFChemicals" />
@@ -16611,7 +16812,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceScrapBrassMedium" />
     <property name="MeltTimePerUnit" value=".4" />
-    <property name="Stacknumber" value="250" />
+    <property name="Stacknumber" value="500">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK loot -->
     <property name="Weight" value="50" />
     <property name="EconomicValue" value="40" />
@@ -16625,7 +16828,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceScrapBrassMedium" />
     <property name="MeltTimePerUnit" value=".4" />
-    <property name="Stacknumber" value="250" />
+    <property name="Stacknumber" value="500">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK loot -->
     <property name="Weight" value="150" />
     <property name="EconomicValue" value="120" />
@@ -16639,7 +16844,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceScrapBrassLarge" />
     <property name="MeltTimePerUnit" value=".4" />
-    <property name="Stacknumber" value="5" />
+    <property name="Stacknumber" value="100">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK loot -->
     <property name="Weight" value="250" />
     <property name="EconomicValue" value="200" />
@@ -16652,7 +16859,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceScrapLeadSmall" />
-    <property name="Stacknumber" value="500" />
+    <property name="Stacknumber" value="500">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK loot -->
     <property name="Weight" value="5" />
     <property name="EconomicValue" value="25" />
@@ -16667,7 +16876,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceScrapBrassMedium" />
     <property name="MeltTimePerUnit" value=".4" />
-    <property name="Stacknumber" value="250" />
+    <property name="Stacknumber" value="500">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK loot -->
     <property name="Weight" value="50" />
     <property name="EconomicValue" value="40" />
@@ -16681,7 +16892,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MresourceScrapLeadMedium" />
-    <property name="Stacknumber" value="250" />
+    <property name="Stacknumber" value="500">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK loot -->
     <property name="Weight" value="10" />
     <property name="EconomicValue" value="48" />
@@ -16749,7 +16962,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MsmallEngine" />
     <property name="RepairTools" value="resourceRepairKit" />
-    <property name="Stacknumber" value="1" />
+    <property name="Stacknumber" value="10">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <property name="Material" value="MmechanicalParts" />
     <property name="Weight" value="200" />
     <property name="EconomicValue" value="1000" />
@@ -16802,7 +17017,9 @@ perkNightStalkerSilentNight
     <property name="Material" value="MresourceScrapBrassSmall" />
     <property name="MeltTimePerUnit" value=".4" />
     <property name="Weight" value="1" />
-    <property name="Stacknumber" value="20000" />
+    <property name="Stacknumber" value="30000">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="EconomicValue" value="5" />
     <property name="EconomicBundleSize" value="1" />
@@ -16845,7 +17062,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Miron" />
-    <property name="Stacknumber" value="3" />
+    <property name="Stacknumber" value="250">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK loot -->
     <property name="EconomicValue" value="200" />
     <property name="EconomicSellScale" value=".1" />
@@ -16858,7 +17077,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Miron" />
-    <property name="Stacknumber" value="3" />
+    <property name="Stacknumber" value="250">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK loot -->
     <property name="EconomicValue" value="200" />
     <property name="EconomicSellScale" value=".1" />
@@ -16875,7 +17096,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MtoolBeaker" />
     <property name="Weight" value="0" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="250">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK loot -->
     <property name="EconomicValue" value="500" />
     <property name="Group" value="Tools/Traps,Chemicals" />
@@ -16889,7 +17112,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="MtoolBellows" />
-    <property name="Stacknumber" value="1" />
+    <property name="Stacknumber" value="10">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK resource -->
     <property name="Weight" value="0" />
     <property name="EconomicValue" value="500" />
@@ -16911,7 +17136,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Msteel" />
     <property name="Weight" value="0" />
-    <property name="Stacknumber" value="1" />
+    <property name="Stacknumber" value="10">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK loot -->
     <property name="EconomicValue" value="240" />
     <property name="Group" value="Tools/Traps" />
@@ -16931,7 +17158,9 @@ perkNightStalkerSilentNight
     <property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab" />
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Morganic" />
-    <property name="Stacknumber" value="1" />
+    <property name="Stacknumber" value="10">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <property name="Group" value="Tools/Traps" />
     <property name="EconomicValue" value="5000" />
     <property name="SellableToTrader" value="false" />
@@ -17023,7 +17252,9 @@ perkNightStalkerSilentNight
     <property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab" />
     <property name="Material" value="Mmetal" />
     <property name="Weight" value="5" />
-    <property name="Stacknumber" value="50" />
+    <property name="Stacknumber" value="100">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <property name="SellableToTrader" value="true" />
     <property name="EconomicValue" value="100" />
     <property name="Group" value="Tools/Traps" />

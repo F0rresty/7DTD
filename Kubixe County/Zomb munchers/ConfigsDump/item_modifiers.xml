@@ -1535,6 +1535,9 @@
     <property name="DescriptionKey" value="modDyeGroupDesc" />
     <property name="Material" value="Mpaint" />
     <property name="Weight" value="20" />
+    <property name="Stacknumber" value="100">
+      <!--Element appended by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
   </item_modifier>
   <item_modifier name="modDyeRed" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye,modDyeRed" type="attachment" cosmetic_install_chance=".13">
     <property name="Extends" value="modGeneralMaster" />
@@ -1576,6 +1579,9 @@
     <item_property_overrides name="apparelSuitJacket">
       <property name="UMA.Overlay0Tint" value="60,19,19" />
     </item_property_overrides>
+    <property name="Stacknumber" value="100">
+      <!--Element appended by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
   </item_modifier>
   <item_modifier name="modDyeGreen" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye,modDyeGreen" type="attachment" cosmetic_install_chance=".13">
     <property name="Extends" value="modGeneralMaster" />
@@ -1613,6 +1619,9 @@
       <property name="CustomIconTint" value="200,255,200" />
       <property name="UMA.Overlay0Tint" value="200,255,200" />
     </item_property_overrides>
+    <property name="Stacknumber" value="100">
+      <!--Element appended by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
   </item_modifier>
   <item_modifier name="modDyeBlack" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye,modDyeBlack" type="attachment" cosmetic_install_chance=".05">
     <property name="Extends" value="modGeneralMaster" />
@@ -1671,6 +1680,9 @@
       <property name="CustomIconTint" value="57,57,57" />
       <property name="UMA.Overlay0Tint" value="27,27,27" />
     </item_property_overrides>
+    <property name="Stacknumber" value="100">
+      <!--Element appended by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
   </item_modifier>
   <item_modifier name="modDyeBlue" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye,modDyeBlue" type="attachment" cosmetic_install_chance=".13">
     <property name="Extends" value="modGeneralMaster" />
@@ -1719,6 +1731,9 @@
       <property name="UMA.Overlay0Tint" value="skin" />
       <property name="UMA.Overlay1Tint" value="110,173,255" />
     </item_property_overrides>
+    <property name="Stacknumber" value="100">
+      <!--Element appended by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
   </item_modifier>
   <item_modifier name="modDyeBrown" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye,modDyeBrown" type="attachment" cosmetic_install_chance=".16">
     <property name="Extends" value="modGeneralMaster" />
@@ -1751,6 +1766,9 @@
       <property name="UMA.Overlay0Tint" value="skin" />
       <property name="UMA.Overlay1Tint" value="132,105,84" />
     </item_property_overrides>
+    <property name="Stacknumber" value="100">
+      <!--Element appended by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
   </item_modifier>
   <item_modifier name="modDyePink" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye,modDyePink" type="attachment" cosmetic_install_chance=".08">
     <property name="Extends" value="modGeneralMaster" />
@@ -1793,6 +1811,9 @@
     <item_property_overrides name="apparelSuitJacket">
       <property name="UMA.Overlay0Tint" value="159,101,168" />
     </item_property_overrides>
+    <property name="Stacknumber" value="100">
+      <!--Element appended by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
   </item_modifier>
   <item_modifier name="modDyePurple" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye,modDyePurple" type="attachment" cosmetic_install_chance=".1">
     <property name="Extends" value="modGeneralMaster" />
@@ -1831,6 +1852,9 @@
     <item_property_overrides name="apparelSuitJacket">
       <property name="UMA.Overlay0Tint" value="93,77,99" />
     </item_property_overrides>
+    <property name="Stacknumber" value="100">
+      <!--Element appended by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
   </item_modifier>
   <item_modifier name="modDyeYellow" installable_tags="clothing,armor,weapon,tool,vehicle,drone" modifier_tags="dye,modDyeYellow" type="attachment" cosmetic_install_chance=".1">
     <property name="Extends" value="modGeneralMaster" />
@@ -1869,6 +1893,9 @@
     <item_property_overrides name="apparelSuitJacket">
       <property name="UMA.Overlay0Tint" value="152,149,93" />
     </item_property_overrides>
+    <property name="Stacknumber" value="100">
+      <!--Element appended by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
   </item_modifier>
   <!--
 	<item_modifier name="modDyeOrange" installable_tags="clothing,armor,weapon,tool,vehicle" modifier_tags="dye" type="attachment" cosmetic_install_chance=".05">
