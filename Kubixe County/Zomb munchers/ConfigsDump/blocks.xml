@@ -1277,6 +1277,9 @@ MC_playerBlocks - SC_electrical,SC_traps,SC_decor,SC_playerHelpers
     <property name="PickupJournalEntry" value="farmingTip" />
     <!-- Visual -->
     <property name="Material" value="Mplants" />
+    <property name="Stacknumber" value="1000">
+      <!--Element inserted by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <property name="Shape" value="BillboardPlant" />
     <property name="Mesh" value="grass" />
     <property name="Texture" value="395" />
@@ -1360,6 +1363,9 @@ MC_playerBlocks - SC_electrical,SC_traps,SC_decor,SC_playerHelpers
     <property name="DescriptionKey" value="plantsBlockGroupDesc" />
     <property name="DisplayType" value="blockMulti" />
     <property name="Material" value="MtreeWoodSmall" />
+    <property name="Stacknumber" value="1000">
+      <!--Element inserted by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <property name="Shape" value="DistantDecoTree" />
     <property name="Model" value="@:Entities/Trees/MountainPine40mPrefab.prefab" />
     <property name="Texture" value="116" />
@@ -17439,6 +17445,9 @@ MC_playerBlocks - SC_electrical,SC_traps,SC_decor,SC_playerHelpers
     <property name="EconomicValue" value="10" />
     <property name="EconomicBundleSize" value="10" />
     <property name="MaxDamage" value="400" />
+    <property name="Stacknumber" value="1000">
+      <!--Element inserted by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <drop event="Harvest" name="resourceWood" count="5" tag="oreWoodHarvest" />
     <property class="UpgradeBlock">
       <property name="ToBlock" value="cobblestoneShapes:pillar100" />
@@ -36511,7 +36520,9 @@ MC_playerBlocks - SC_electrical,SC_traps,SC_decor,SC_playerHelpers
     <property name="CustomIconTint" value="4F4A45" />
     <property name="TintColor" value="4F4A45" />
     <property name="DescriptionKey" value="furnitureGroupDesc" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="100">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <property name="Material" value="Mleather" />
     <property name="Shape" value="ModelEntity" />
     <property name="Model" value="Entities/Furniture/officeChairPrefab" />
@@ -36666,7 +36677,9 @@ MC_playerBlocks - SC_electrical,SC_traps,SC_decor,SC_playerHelpers
   <block name="woodChair1">
     <property name="Extends" value="woodWeakNoUpgradeMaster" param1="DescriptionKey" />
     <property name="DescriptionKey" value="furnitureGroupDesc" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="100">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <property name="Shape" value="New" />
     <property name="Model" value="chair" />
     <property name="Texture" value="22" />
@@ -36732,7 +36745,9 @@ MC_playerBlocks - SC_electrical,SC_traps,SC_decor,SC_playerHelpers
     <property name="CustomIconTint" value="505050" />
     <property name="TintColor" value="505050" />
     <property name="DescriptionKey" value="furnitureGroupDesc" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="100">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <property name="Shape" value="ModelEntity" />
     <property name="Model" value="Entities/Furniture/chair01Prefab" />
     <property name="WaterFlow" value="permitted" />
@@ -36872,7 +36887,9 @@ MC_playerBlocks - SC_electrical,SC_traps,SC_decor,SC_playerHelpers
     <property name="CustomIconTint" value="8F8F8F" />
     <property name="TintColor" value="8F8F8F" />
     <property name="DescriptionKey" value="furnitureGroupDesc" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="100">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <property name="Material" value="Mmetal_weak" />
     <property name="Shape" value="ModelEntity" />
     <property name="Model" value="Entities/Furniture/chairFoldingMetalUnfoldedPrefab" />
@@ -36989,7 +37006,9 @@ MC_playerBlocks - SC_electrical,SC_traps,SC_decor,SC_playerHelpers
     <property name="CustomIconTint" value="8F8F8F" />
     <property name="TintColor" value="8F8F8F" />
     <property name="DescriptionKey" value="furnitureGroupDesc" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="100">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <property name="Material" value="Mmetal_weak" />
     <property name="Shape" value="ModelEntity" />
     <property name="Model" value="Entities/Furniture/chairFoldingMetalFoldedLeaningPrefab" />
@@ -37107,7 +37126,9 @@ MC_playerBlocks - SC_electrical,SC_traps,SC_decor,SC_playerHelpers
     <property name="CustomIconTint" value="8F8F8F" />
     <property name="TintColor" value="8F8F8F" />
     <property name="DescriptionKey" value="furnitureGroupDesc" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="100">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <property name="Material" value="Mmetal_weak" />
     <property name="Shape" value="ModelEntity" />
     <property name="Model" value="Entities/Furniture/chairFoldingMetalFoldedFallenPrefab" />
@@ -37240,7 +37261,9 @@ MC_playerBlocks - SC_electrical,SC_traps,SC_decor,SC_playerHelpers
     <property name="CustomIconTint" value="A0A0A0" />
     <property name="TintColor" value="A0A0A0" />
     <property name="DescriptionKey" value="furnitureGroupDesc" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="100">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <property name="Material" value="MmetalNoGlue" />
     <property name="Shape" value="ModelEntity" />
     <property name="Model" value="Entities/Furniture/chairCampingPrefab" />
@@ -55185,7 +55208,9 @@ MC_playerBlocks - SC_electrical,SC_traps,SC_decor,SC_playerHelpers
     <property name="Explosion.DamageBonus.wood" value="0" />
     <property name="Explosion.DamageBonus.water" value="0" />
     <property name="ItemTypeIcon" value="explosion" />
-    <property name="Stacknumber" value="25" />
+    <property name="Stacknumber" value="100">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK explosives -->
     <property name="Material" value="MLandMine" />
     <property name="Shape" value="ModelEntity" />
@@ -55225,7 +55250,9 @@ MC_playerBlocks - SC_electrical,SC_traps,SC_decor,SC_playerHelpers
     <property name="Explosion.RadiusEntities" value="3" />
     <property name="Explosion.EntityDamage" value="300" />
     <property name="UnlockedBy" value="craftingExplosives" />
-    <property name="Stacknumber" value="25" />
+    <property name="Stacknumber" value="100">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK explosives -->
     <property name="Shape" value="ModelEntity" />
     <property name="Model" value="@:Other/Items/Weapons/Explosive/trapMineCookingPot_01Prefab.prefab" />
@@ -55242,7 +55269,9 @@ MC_playerBlocks - SC_electrical,SC_traps,SC_decor,SC_playerHelpers
     <property name="Explosion.RadiusEntities" value="5" />
     <property name="Explosion.EntityDamage" value="450" />
     <property name="UnlockedBy" value="craftingExplosives" />
-    <property name="Stacknumber" value="20" />
+    <property name="Stacknumber" value="100">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK explosives -->
     <property name="Shape" value="ModelEntity" />
     <property name="Model" value="@:Other/Items/Weapons/Explosive/trapMineHubCap_01Prefab.prefab" />
@@ -55260,7 +55289,9 @@ MC_playerBlocks - SC_electrical,SC_traps,SC_decor,SC_playerHelpers
     <property name="Explosion.EntityDamage" value="690" />
     <property name="EconomicValue" value="182" />
     <property name="UnlockedBy" value="craftingExplosives" />
-    <property name="Stacknumber" value="10" />
+    <property name="Stacknumber" value="100">
+      <!--Attribute "value" replaced by: "Jakmeister999_REASONABLE_Large_Stacks_A21"-->
+    </property>
     <!-- STK explosives -->
     <property name="Shape" value="ModelEntity" />
     <property name="Model" value="@:Other/Items/Weapons/Explosive/trapMineAirFilter_01Prefab.prefab" />
