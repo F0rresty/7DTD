@@ -1,7 +1,8 @@
 ﻿<!-- Table_of_Contents -->
 <!-- Search_Find_All_for *** -->
 <progression>
-  <level max_level="300" exp_to_level="10000" experience_multiplier="1.05" skill_points_per_level="1" clamp_exp_cost_at_level="60">
+  <level max_level="300" exp_to_level="10000" experience_multiplier="1.05" skill_points_per_level="2" clamp_exp_cost_at_level="60">
+    <!--Attribute "skill_points_per_level" replaced by: "More Points, Less Problems"-->
     <!-- Note: max_level is referenced in buffNearDeathTraumaXXX and entityclasses -->
     <!-- XP to complete the current level will cap out at 2^32/2. (lvl 252 in A18) -->
   </level>
@@ -4274,4 +4275,4 @@
 <!-- *** NOTES - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 <!-- Skill XP gain (automatic leveling) is DISABLED if exp_gain_multiplier = 0 -->
 <!-- For testing, add the following to fire messages inside effect groups or requirements -->
-<!-- <triggered_effect trigger="onSelfProgressionUpdate" action="LogMessage" message="buff triggered"/> -->ffect trigger="onSelfProgressionUpdate" action="LogMessage" message="buff triggered"/> -->
+<!-- <triggered_effect trigger="onSelfProgressionUpdate" action="LogMessage" message="buff triggered"/> -->>
